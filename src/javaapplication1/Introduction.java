@@ -4,10 +4,7 @@
  */
 package javaapplication1;
 
-/**
- *
- * @author Ngoc Han
- */
+
 public class Introduction {
     public static void main(String[] args) {
         System.out.println("Ho ten: Doan Thi Ngoc Han");
